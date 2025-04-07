@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /admin/     
+Disallow: /old-content/ 
+Disallow: /category/duplicates/ 
+Disallow: /private/
+
+Sitemap: https://46664t.github.io/Jewel-Miracle/sitemap.xml
+
+
